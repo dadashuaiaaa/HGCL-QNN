@@ -1,0 +1,1 @@
+Please cite this article as: K. Jia, F. Meng and J. Liang, Hierarchical graph contrastive learning framework based on quantum neural networks for sentiment analysis, Information Sciences, https://doi.org/10.1016/j.ins.2024.121543
